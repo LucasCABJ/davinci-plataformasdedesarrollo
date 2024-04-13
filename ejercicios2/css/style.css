@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 25px;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+#ej1-resultado {
+    padding: 15px 0px;
+    font-size: 25px;
+}
+
+.ejercicio1-input {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#helados-list {
+    list-style: none;
+}
